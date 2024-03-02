@@ -1,4 +1,4 @@
-import { IonicNativePlugin } from "@ionic-native/core";
+import { IonicNativePlugin } from "@awesome-cordova-plugins/core";
 import { Observable } from "rxjs";
 /**
  * @name HMSMLKit

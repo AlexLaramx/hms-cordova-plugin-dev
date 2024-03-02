@@ -15,7 +15,7 @@
 */
 import { __extends } from "tslib";
 import { Injectable } from "@angular/core";
-import { IonicNativePlugin, cordova, cordovaPropertyGet, cordovaPropertySet } from "@ionic-native/core";
+import { IonicNativePlugin, cordova, cordovaPropertyGet, cordovaPropertySet } from "@awesome-cordova-plugins/core";
 import { Observable } from "rxjs";
 var HMSMLKit = /** @class */ (function (_super) {
     __extends(HMSMLKit, _super);
